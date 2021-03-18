@@ -63,13 +63,13 @@ body {
     background-image: url(./pic/dnd1.jpg);
 }
 .img_two {
-    background-image: url(../pic/dnd2.jpg);
+    background-image: url(./pic/dnd2.jpg);
 }
 .img_three {
     background-image: url(./pic/dnd3.jpg);
 }
 .img_four {
-    background-image: url(../pic/dnd4.jpg);
+    background-image: url(./pic/dnd4.jpg);
 }
 .img_five {
     background-image: url(./pic/dnd5.jpg);
@@ -290,7 +290,7 @@ body {
     position: relative;
 }
 .bl_bg {
-    background: url(/pic/tavern.jpg) ;
+    background: url(./pic/tavern.jpg) ;
     width: 100%;
     height: 95vh;
     z-index: -1;
@@ -357,13 +357,13 @@ body {
     align-items: center;
 }
 .sc_left {
-    background: url(/pic/cyberpunk2020cover.bmp);
+    background: url(./pic/cyberpunk2020cover.bmp);
     width: 100%;
     height: 100%;
     flex: 1;
 }
 .sc_right {
-    background: url(/pic/dndbookcover.bmp);
+    background: url(./pic/dndbookcover.bmp);
     width: 100%;
     height: 100%;
     background-size: cover;
