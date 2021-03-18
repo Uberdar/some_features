@@ -60,19 +60,19 @@ body {
 }
 
 .img_one {
-    background-image: url(/pic/dnd1.jpg);
+    background-image: url(./pic/dnd1.jpg);
 }
 .img_two {
-    background-image: url(/pic/dnd2.jpg);
+    background-image: url(../pic/dnd2.jpg);
 }
 .img_three {
-    background-image: url(/pic/dnd3.jpg);
+    background-image: url(./pic/dnd3.jpg);
 }
 .img_four {
-    background-image: url(/pic/dnd4.jpg);
+    background-image: url(../pic/dnd4.jpg);
 }
 .img_five {
-    background-image: url(/pic/dnd5.jpg);
+    background-image: url(./pic/dnd5.jpg);
 }
 
 /*Project 1*/
